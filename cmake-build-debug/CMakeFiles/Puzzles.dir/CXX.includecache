@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/18102/Puzzles/eight_puzzle.cpp
+eight_puzzle.h
+C:/Users/18102/Puzzles/eight_puzzle.h
+
+C:/Users/18102/Puzzles/eight_puzzle.h
+vector
+-
+string
+-
+iostream
+-
+time.h
+C:/Users/18102/Puzzles/time.h
+
+C:/Users/18102/Puzzles/main.cpp
+eight_puzzle.h
+C:/Users/18102/Puzzles/eight_puzzle.h
+treeNode.h
+C:/Users/18102/Puzzles/treeNode.h
+iostream
+-
+
+C:/Users/18102/Puzzles/treeNode.cpp
+treeNode.h
+C:/Users/18102/Puzzles/treeNode.h
+
+C:/Users/18102/Puzzles/treeNode.h
+eight_puzzle.h
+C:/Users/18102/Puzzles/eight_puzzle.h
+
